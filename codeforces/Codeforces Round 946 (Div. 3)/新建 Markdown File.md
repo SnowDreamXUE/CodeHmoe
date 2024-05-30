@@ -1,1 +1,0 @@
-[Codeforces Round 946 (Div. 3)](https://codeforces.com/contest/1974)
